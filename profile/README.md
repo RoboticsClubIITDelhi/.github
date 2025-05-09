@@ -39,7 +39,7 @@ We conduct a range of activities to engage and empower robotics enthusiasts at a
 
 Our club has consistently represented IIT Delhi at top-tier robotics competitions with notable accolades:
 
-- 🥇 **ABU Robocon (Year)**: Best Innovation Award for an advanced autonomous robot.
+- 🥇 **ABU Robocon 2015**: Best Innovation Award for an advanced autonomous robot.
 - 🥈 **ABU Robocon 2007**: National winners at Robocon Pune; represented India on the international stage, demonstrating engineering excellence.
 
 ---
