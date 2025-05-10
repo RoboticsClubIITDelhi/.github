@@ -59,5 +59,5 @@ We’re always excited to connect with students, alumni, industry experts, and f
 
 ---
 
-> *"Building the future, right here at Robotics Club IIT Delhi."*
+> *"The best way to predict the future is to invent it."* - Alan Kay
 
