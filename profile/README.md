@@ -1,5 +1,9 @@
 # Robotics Club
 
+<p align="center">
+    <img src="./assets/robo_intro.gif" alt="Robotics Club Introduction" width="500">
+</p>
+
 **Welcome to the Robotics Club – The Student-Led Robotics Community at the Indian Institute of Technology Delhi!**
 
 ## 🧠 About Us
